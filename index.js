@@ -1,9 +1,11 @@
 console.log('Hello World!');
 console.log("This is a new line.");
 
-alert("Hello World!");
+alert("Hello Earth! Hello Mars!");
 
-console.log("Hello World");
+console.log({
+    test: "JSON"
+});
 
 function sayHello() {
     console.log("Hello World");
