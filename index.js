@@ -3,7 +3,9 @@ console.log("This is a new line.");
 
 alert("Hello Earth! Hello Mars!");
 
-console.log("Hello Multiple Lines!");
+console.log({
+    test: "JSON"
+});
 
 function sayHello() {
     console.log("Hello World");
