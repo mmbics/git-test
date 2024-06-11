@@ -4,7 +4,7 @@ console.log("This is a new line.");
 alert("Hello Earth! Hello Mars!");
 
 console.log({
-    test: "JSON"
+    test: "JSON is the best notation in web"
 });
 
 function sayHello() {
